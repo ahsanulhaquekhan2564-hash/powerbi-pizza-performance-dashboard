@@ -50,7 +50,7 @@ Synthetic dataset (no real company/customer data).
 
 ## Credential
 Power BI Micro-credential: **Data Modeling, DAX, and Dashboard Creation** (Hard Skills Station / Parchment).  
-*(Add verification link here if you have a public URL.)*
+Credential verification: [View badge](https://badges.parchment.com/public/assertions/AFzkJe1rRUiISSDKd6RM9A)
 
 ## Tools
 Power BI • Power Query • DAX
